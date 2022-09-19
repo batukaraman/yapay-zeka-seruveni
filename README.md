@@ -20,8 +20,8 @@ Deponun içeriğine bakacak olursak:
         - Pandas
         - Matplotlib
         - Seaborn
-    - [Makine Öğrenmesi ve Derin Öğrenme İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler)
-        - [Scikit-learn](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/scikit-learn.ipynb)
+    - [Makine Öğrenmesi ve Derin Öğrenme İçin Kütüphaneler](../main//Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler)
+        - [Scikit-learn](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/scikit-learn.ipynb)
         - TensorFlow
         - Keras
         - PyTorch
