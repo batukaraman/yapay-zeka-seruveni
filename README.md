@@ -5,9 +5,9 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 Deponun içeriğine bakacak olursak:
 
 1. [Veri Bilimi](../main/Veri-Bilimi)
-    - Veri Bilimi İçin İstatistik
-    - Veri Bilimi İçin Matematik
-    - Veri Bilimi İçin Veri Analitiği
+    - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
+    - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
+    - [Veri Bilimi İçin Veri Analitiği](../main/Veri-Bilimi/Veri-Bilimi-Veri-Analitigi.ipynb)
 2. Python ile Programlama
     - Değişkenler
     - Veri Yapıları
