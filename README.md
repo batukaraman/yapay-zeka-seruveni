@@ -8,15 +8,15 @@ Deponun içeriğine bakacak olursak:
     - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
     - [Veri Bilimi İçin Veri Analitiği](../main/Veri-Bilimi/Veri-Bilimi-Icin-Veri-Analitigi.ipynb)
-2. Python ile Programlama
+2. [Python ile Programlama](../main/Python-ile-Programlama) Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb
     - Değişkenler
     - Veri Yapıları
     - Nesne Tabanlı Programlama
     - Fonksiyonel Programalama
     - Kullanışlı Kütüphaneler
-    - Veri Bilimi İçin Kütüphaneler
+    - [Veri Bilimi İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler) Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb
         - SciPy
-        - NumPy
+        - [NumPy](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb)
         - Pandas
         - Matplotlib
         - Seaborn
