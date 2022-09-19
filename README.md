@@ -15,16 +15,7 @@ Deponun içeriğine bakacak olursak:
     - Fonksiyonel Programalama
     - Kullanışlı Kütüphaneler
     - Veri Bilimi İçin Kütüphaneler
-        - SciPy
-        - NumPy
-        - Pandas
-        - Matplotlib
-        - Seaborn
     - Makine Öğrenmesi ve Derin Öğrenme İçin Kütüphaneler
-        - Scikit-learn
-        - TensorFlow
-        - Keras
-        - PyTorch
 2. Yapay Zeka
     - Geçmişten Günümüze Düşünen Makineler
     - Makine Öğremesi ve Derin Öğrenme Arasındaki Fark
