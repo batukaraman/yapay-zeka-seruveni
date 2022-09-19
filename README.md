@@ -5,22 +5,22 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 Deponun içeriğine bakacak olursak:
 
 1. [Python ile Programlama](../main/Python-ile-Programlama)
-    - Değişkenler
-    - Veri Yapıları
-    - Nesne Tabanlı Programlama
-    - Fonksiyonel Programalama
-    - Kullanışlı Kütüphaneler
+    - [Değişkenler](../main/Python-ile-Programlama/Degiskenler.ipynb)
+    - [Veri Yapıları](../main/Python-ile-Programlama/Veri-Yapilari.ipynb)
+    - [Nesne Tabanlı Programlama](../main/Python-ile-Programlama/Nesne-Tabanli-Programlama.ipynb)
+    - [Fonksiyonel Programalama](../main/Python-ile-Programlama/Fonksiyonel-Programalama.ipynb)
+    - [Kullanışlı Kütüphaneler](../main/Python-ile-Programlama/Kullanisli-Kutuphaneler.ipynb)
     - [Veri Bilimi İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler)
-        - SciPy
+        - [SciPy](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/SciPy.ipynb)
         - [NumPy](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb)
-        - Pandas
-        - Matplotlib
-        - Seaborn
+        - [Pandas](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/Pandas.ipynb)
+        - [Matplotlib](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/Matplotlib.ipynb)
+        - [Seaborn](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/Seaborn.ipynb)
     - [Makine Öğrenmesi ve Derin Öğrenme İçin Kütüphaneler](../main//Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler)
         - [Scikit-learn](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/scikit-learn.ipynb)
-        - TensorFlow
-        - Keras
-        - PyTorch 
+        - [TensorFlow](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/TensorFlow.ipynb)
+        - [Keras](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/Keras.ipynb)
+        - [PyTorch](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/PyTorch.ipynb)
 2. [Veri Bilimi](../main/Veri-Bilimi)
     - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
@@ -29,8 +29,8 @@ Deponun içeriğine bakacak olursak:
     - [Veri Görselleştirme](../main/Veri-Bilimi/Veri-Gorsellestirme.ipynb)
     - [Veri Ön İşleme](../main/Veri-Bilimi/Veri-On-Isleme.ipynb)
 3. [Yapay Zeka](../main/Yapay-Zeka)
-    - Geçmişten Günümüze Düşünen Makineler
-    - Makine Öğremesi ve Derin Öğrenme Arasındaki Fark
+    - [Geçmişten Günümüze Düşünen Makineler](../main/Yapay-Zeka)
+    - [Makine Öğremesi ve Derin Öğrenme Arasındaki Fark](../main/Yapay-Zeka)
     - [Makine Öğrenmesi](../main/Yapay-Zeka/Makine-Ogrenmesi)
         - [Makine Öğrenmesi Algoritmaları](../main/Yapay-Zeka/Makine-Ogrenmesi/Makine-Ogrenmesi-Algoritmaları.ipynb)
         - [Örnek Projeler](../main/Yapay-Zeka/Makine-Ogrenmesi/Ornek-Projeler)
