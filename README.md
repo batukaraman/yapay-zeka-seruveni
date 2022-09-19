@@ -14,7 +14,7 @@ Deponun içeriğine bakacak olursak:
     - Nesne Tabanlı Programlama
     - Fonksiyonel Programalama
     - Kullanışlı Kütüphaneler
-    - [Veri Bilimi İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler) Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb
+    - [Veri Bilimi İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler)
         - SciPy
         - [NumPy](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/NumPy.ipynb)
         - Pandas
