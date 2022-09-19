@@ -33,3 +33,20 @@ Deponun içeriğine bakacak olursak:
         - Derin Öğrenme
             - Yapay Sinir Ağları
     - Doğal Dil İşleme
+
+# Kaynakça
+1. https://bulutistan.com/blog/yapay-zeka-ai-nedir/
+2. https://www.veribilimiokulu.com/yapay-sinir-agiartificial-neural-network-nedir/
+3. https://www.veribilimiokulu.com/veri-bilimi-ve-yapay-zeka-nedir
+4. https://www.veribilimiokulu.com/makineler-nasil-ogrenir/
+5. https://teknoloji.org/derin-ogrenme-nedir-yapay-sinir-aglari-ne-ise-yarar/
+6. https://en.wikipedia.org/wiki/Data_science
+7. https://www.innova.com.tr/tr/blog/buyuk-veri-blog/veri-bilimi-makine-ogrenimi-ve-yapay-zeka-nasil-birlikte-calisir
+8. https://gelecegiyazanlar.turkcell.com.tr/konu/veri-bilimi-icin-istatistik
+9. https://bluemarkacademy.com/veri-analitigi-nedir/
+10. https://www.datasciencearth.com/veri-bilimcileri-tarafindan-en-cok-talep-goren-8-matematik-kursu/
+11. https://www.datasciencearth.com/veri-bilimi-icin-hangi-matematik-konularini-ve-kavramlarini-ogrenmeniz-gerektigini-biliyor-musunuz/
+12. https://www.superprof.com.tr/blog/veri-analiz-bilim-farki
+13. https://medium.com/yapay-zeka-makine-%C3%B6%C4%9Frenmesi-derin-%C3%B6%C4%9Frenme/derin-%C3%B6%C4%9Frenme-k%C3%BCt%C3%BCphaneleri-8ef12c7e35f8
+14. https://akademi40.org/yapay-zeka-ve-makine-ogrenimi-icin-en-iyi-20-python-kutuphanesi
+15. https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html
