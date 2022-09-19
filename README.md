@@ -4,7 +4,7 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 
 Deponun içeriğine bakacak olursak:
 
-1. [Veri Bilimi](../main/Veri%20Bilimi)
+1. [Veri Bilimi](../main/Veri Bilimi)
     - Veri Bilimi İçin İstatistik
     - Veri Bilimi İçin Matematik
     - Veri Bilimi İçin Veri Analitiği
