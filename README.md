@@ -4,11 +4,7 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 
 Deponun içeriğine bakacak olursak:
 
-1. [Veri Bilimi](../main/Veri-Bilimi)
-    - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
-    - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
-    - [Veri Bilimi İçin Veri Analitiği](../main/Veri-Bilimi/Veri-Bilimi-Icin-Veri-Analitigi.ipynb)
-2. [Python ile Programlama](../main/Python-ile-Programlama)
+1. [Python ile Programlama](../main/Python-ile-Programlama)
     - Değişkenler
     - Veri Yapıları
     - Nesne Tabanlı Programlama
@@ -24,8 +20,12 @@ Deponun içeriğine bakacak olursak:
         - [Scikit-learn](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/scikit-learn.ipynb)
         - TensorFlow
         - Keras
-        - PyTorch
-2. Yapay Zeka
+        - PyTorch 
+2. [Veri Bilimi](../main/Veri-Bilimi)
+    - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
+    - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
+    - [Veri Bilimi İçin Veri Analitiği](../main/Veri-Bilimi/Veri-Bilimi-Icin-Veri-Analitigi.ipynb)
+3. Yapay Zeka
     - Geçmişten Günümüze Düşünen Makineler
     - Makine Öğremesi ve Derin Öğrenme Arasındaki Fark
     - Makine Öğrenmesi
