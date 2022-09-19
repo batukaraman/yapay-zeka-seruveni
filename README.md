@@ -25,14 +25,18 @@ Deponun içeriğine bakacak olursak:
     - [Veri Bilimi İçin İstatistik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
     - [Veri Bilimi İçin Veri Analitiği](../main/Veri-Bilimi/Veri-Bilimi-Icin-Veri-Analitigi.ipynb)
-3. Yapay Zeka
+    - [Veri Manipülasyonu](../main/Veri-Bilimi/Veri-Manipulasyonu.ipynb)
+    - [Veri Görselleştirme](../main/Veri-Bilimi/Veri-Gorsellestirme.ipynb)
+    - [Veri Ön İşleme](../main/Veri-Bilimi/Veri-On-Isleme.ipynb)
+3. [Yapay Zeka](../main/Yapay-Zeka)
     - Geçmişten Günümüze Düşünen Makineler
     - Makine Öğremesi ve Derin Öğrenme Arasındaki Fark
-    - Makine Öğrenmesi
-        - Makine Öğrenmesi Algoritmaları
-        - Derin Öğrenme
-            - Yapay Sinir Ağları
-    - Doğal Dil İşleme
+    - [Makine Öğrenmesi](../main/Yapay-Zeka/Makine-Ogrenmesi)
+        - [Makine Öğrenmesi Algoritmaları](../main/Yapay-Zeka/Makine-Ogrenmesi/Makine-Ogrenmesi-Algoritmaları.ipynb)
+        - [Örnek Projeler](../main/Yapay-Zeka/Makine-Ogrenmesi/Ornek-Projeler)
+        - [Derin Öğrenme](../main/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme)
+            - [Yapay Sinir Ağları](../main/Yapay-Zeka/Makine-Ogrenmesi/Yapay-Sinir-Aglari.ipynb)
+    - [Doğal Dil İşleme](../main/Yapay-Zeka/Dogal-Dil-Isleme)
 
 # Kaynakça
 1. https://bulutistan.com/blog/yapay-zeka-ai-nedir/
