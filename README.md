@@ -1,1 +1,1 @@
-# artificial-intelligence-adventure
+# Yapay Zeka Serüveni
