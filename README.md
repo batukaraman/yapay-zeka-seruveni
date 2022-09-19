@@ -3,7 +3,7 @@
 Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmalarımı not aldığım bir depodur. Bu depoda yapay zeka, makine öğrenmesi, derin öğrenme, doğal dil işleme, veri bilimi ve benzeri birçok konuda gerekli yeterlilikler, kavramlar, kaynaklar ve örnekler bulunacaktır.
 
 Deponun içeriğine bakacak olursak:
-
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
 1. [Veri Bilimi](../Veri Bilimi)
     - Veri Bilimi İçin İstatistik
     - Veri Bilimi İçin Matematik
