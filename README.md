@@ -3,8 +3,8 @@
 Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmalarımı not aldığım bir depodur. Bu depoda yapay zeka, makine öğrenmesi, derin öğrenme, doğal dil işleme, veri bilimi ve benzeri birçok konuda gerekli yeterlilikler, kavramlar, kaynaklar ve örnekler bulunacaktır.
 
 Deponun içeriğine bakacak olursak:
-
-1. [Python ile Programlama](../main/Python-ile-Programlama)
+1. [Veri Tabanı](../main/Veri-Tabani)
+2. [Python ile Programlama](../main/Python-ile-Programlama)
     - [Değişkenler](../main/Python-ile-Programlama/Degiskenler.ipynb)
     - [Veri Yapıları](../main/Python-ile-Programlama/Veri-Yapilari.ipynb)
     - [Nesne Tabanlı Programlama](../main/Python-ile-Programlama/Nesne-Tabanli-Programlama.ipynb)
@@ -21,14 +21,14 @@ Deponun içeriğine bakacak olursak:
         - [TensorFlow](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/TensorFlow.ipynb)
         - [Keras](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/Keras.ipynb)
         - [PyTorch](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/PyTorch.ipynb)
-2. [Veri Bilimi](../main/Veri-Bilimi)
+3. [Veri Bilimi](../main/Veri-Bilimi)
     - [Betimsel İstatistik](../main/Veri-Bilimi/Betimsel-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
     - [Veri Analitiği](../main/Veri-Bilimi/Veri-Analitigi.ipynb)
     - [Veri Manipülasyonu](../main/Veri-Bilimi/Veri-Manipulasyonu.ipynb)
     - [Veri Görselleştirme](../main/Veri-Bilimi/Veri-Gorsellestirme.ipynb)
     - [Veri Ön İşleme](../main/Veri-Bilimi/Veri-On-Isleme.ipynb)
-3. [Yapay Zeka](../main/Yapay-Zeka)
+4. [Yapay Zeka](../main/Yapay-Zeka)
     - [Geçmişten Günümüze Düşünen Makineler](../main/Yapay-Zeka)
     - [Makine Öğremesi ve Derin Öğrenme Arasındaki Fark](../main/Yapay-Zeka)
     - [Makine Öğrenmesi](../main/Yapay-Zeka/Makine-Ogrenmesi)
@@ -54,3 +54,4 @@ Deponun içeriğine bakacak olursak:
 13. https://medium.com/yapay-zeka-makine-%C3%B6%C4%9Frenmesi-derin-%C3%B6%C4%9Frenme/derin-%C3%B6%C4%9Frenme-k%C3%BCt%C3%BCphaneleri-8ef12c7e35f8
 14. https://akademi40.org/yapay-zeka-ve-makine-ogrenimi-icin-en-iyi-20-python-kutuphanesi
 15. https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html
+16. https://www.veribilimiokulu.com/veri-bilimci-olmak-icin-yol-haritasi/ 
