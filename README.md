@@ -55,3 +55,4 @@ Deponun içeriğine bakacak olursak:
 14. https://akademi40.org/yapay-zeka-ve-makine-ogrenimi-icin-en-iyi-20-python-kutuphanesi
 15. https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html
 16. https://www.veribilimiokulu.com/veri-bilimci-olmak-icin-yol-haritasi/ 
+17. https://medium.com/@ekrem.hatipoglu/machine-learning-classification-logistic-regression-part-8-b77d2a61aae1
