@@ -5,8 +5,7 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 Deponun içeriğine bakacak olursak:
 1. [Veri Tabanı](../main/Veri-Tabani)
 2. [Python ile Programlama](../main/Python-ile-Programlama)
-    - [Temel Fonksiyonlar](../main/Python-ile-Programlama/Temel-Fonksiyonlar.ipynb)
-        - 
+    - [Temel Seviye Fonksiyonlar](../main/Python-ile-Programlama/Temel-Fonksiyonlar.ipynb)
     - [Veri Tipleri](../main/Python-ile-Programlama/Degiskenler.ipynb)
     - [Veri Yapıları](../main/Python-ile-Programlama/Veri-Yapilari.ipynb)
     - [Koşul İfadeleri](../main/Python-ile-Programlama/Kosul-Ifadeleri.ipynb)
@@ -15,8 +14,8 @@ Deponun içeriğine bakacak olursak:
         - For Döngüsü
     - [Hata Yakalama ve İstisnalar](../main/Python-ile-Programlama/Hata-Yakalama-ve-Istisnalar.ipynb)
     - [İleri Seviye Fonksiyonlar](../main/Python-ile-Programlama/İleri-Seviye-Fonksiyonlar.ipynb)
-    - [Nesne Tabanlı Programlama](../main/Python-ile-Programlama/Nesne-Tabanli-Programlama.ipynb)
     - [Fonksiyonel Programalama](../main/Python-ile-Programlama/Fonksiyonel-Programalama.ipynb)
+    - [Nesne Tabanlı Programlama](../main/Python-ile-Programlama/Nesne-Tabanli-Programlama.ipynb)
     - [Kullanışlı Kütüphaneler](../main/Python-ile-Programlama/Kullanisli-Kutuphaneler.ipynb)
     - [Veri Bilimi İçin Kütüphaneler](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler)
         - [SciPy](../main/Python-ile-Programlama/Veri-Bilimi-Icin-Kütüphaneler/SciPy.ipynb)
