@@ -6,10 +6,13 @@ Deponun içeriğine bakacak olursak:
 1. [Veri Tabanı](../main/Veri-Tabani)
 2. [Python ile Programlama](../main/Python-ile-Programlama)
     - [Temel Fonksiyonlar](../main/Python-ile-Programlama/Temel-Fonksiyonlar.ipynb)
+        - 
     - [Veri Tipleri](../main/Python-ile-Programlama/Degiskenler.ipynb)
     - [Veri Yapıları](../main/Python-ile-Programlama/Veri-Yapilari.ipynb)
     - [Koşul İfadeleri](../main/Python-ile-Programlama/Kosul-Ifadeleri.ipynb)
     - [Döngüler](../main/Python-ile-Programlama/Donguler.ipynb)
+        - While Döngüsü
+        - For Döngüsü
     - [Hata Yakalama ve İstisnalar](../main/Python-ile-Programlama/Hata-Yakalama-ve-Istisnalar.ipynb)
     - [İleri Seviye Fonksiyonlar](../main/Python-ile-Programlama/İleri-Seviye-Fonksiyonlar.ipynb)
     - [Nesne Tabanlı Programlama](../main/Python-ile-Programlama/Nesne-Tabanli-Programlama.ipynb)
@@ -26,6 +29,11 @@ Deponun içeriğine bakacak olursak:
         - [TensorFlow](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/TensorFlow.ipynb)
         - [Keras](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/Keras.ipynb)
         - [PyTorch](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/PyTorch.ipynb)
+     - Veri Tabanı İşlemleri
+        - SQLite Veritabanı
+        - MySQL Veritabanı
+        - MSSQL Veritabanı
+        - PostgreSQL Veritabanı 
 3. [Veri Bilimi](../main/Veri-Bilimi)
     - [Betimsel İstatistik](../main/Veri-Bilimi/Betimsel-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
