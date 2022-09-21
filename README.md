@@ -44,15 +44,15 @@ Deponun içeriğine bakacak olursak:
     - [Doğal Dil İşleme](../main/Yapay-Zeka/Dogal-Dil-Isleme)
 
 # Kaynakça
-1. https://bulutistan.com/blog/yapay-zeka-ai-nedir/
-2. https://www.veribilimiokulu.com/yapay-sinir-agiartificial-neural-network-nedir/
-3. https://www.veribilimiokulu.com/veri-bilimi-ve-yapay-zeka-nedir
-4. https://www.veribilimiokulu.com/makineler-nasil-ogrenir/
-5. https://teknoloji.org/derin-ogrenme-nedir-yapay-sinir-aglari-ne-ise-yarar/
+1. [Yapay Zeka (AI) Nedir? Uygulama Alanları Nelerdir?](https://bulutistan.com/blog/yapay-zeka-ai-nedir/)
+2. [Yapay Sinir Ağı(Artificial Neural Network) Nedir?](https://www.veribilimiokulu.com/yapay-sinir-agiartificial-neural-network-nedir/) Elif Yıldırım
+3. [Veri Bilimi ve Yapay Zeka Nedir?](https://www.veribilimiokulu.com/veri-bilimi-ve-yapay-zeka-nedir) Elif Yıldırım
+4. [Makineler Nasıl Öğrenir?](https://www.veribilimiokulu.com/makineler-nasil-ogrenir/) Ecem Esra Öztürk
+5. [Derin Öğrenme Nedir? Yapay Sinir Ağları Ne İşe Yarar?](https://teknoloji.org/derin-ogrenme-nedir-yapay-sinir-aglari-ne-ise-yarar/) Özgür Doğan
 6. https://en.wikipedia.org/wiki/Data_science
-7. https://www.innova.com.tr/tr/blog/buyuk-veri-blog/veri-bilimi-makine-ogrenimi-ve-yapay-zeka-nasil-birlikte-calisir
-8. https://gelecegiyazanlar.turkcell.com.tr/konu/veri-bilimi-icin-istatistik
-9. https://bluemarkacademy.com/veri-analitigi-nedir/
+7. [Veri bilimi, makine öğrenimi ve yapay zeka nasıl birlikte çalışır?](https://www.innova.com.tr/tr/blog/buyuk-veri-blog/veri-bilimi-makine-ogrenimi-ve-yapay-zeka-nasil-birlikte-calisir)
+8. [Veri Bilimi için İstatistik](https://gelecegiyazanlar.turkcell.com.tr/konu/veri-bilimi-icin-istatistik)
+9. [Veri Analitiği Nedir?](https://bluemarkacademy.com/veri-analitigi-nedir/)
 10. https://www.datasciencearth.com/veri-bilimcileri-tarafindan-en-cok-talep-goren-8-matematik-kursu/
 11. https://www.datasciencearth.com/veri-bilimi-icin-hangi-matematik-konularini-ve-kavramlarini-ogrenmeniz-gerektigini-biliyor-musunuz/
 12. https://www.superprof.com.tr/blog/veri-analiz-bilim-farki
