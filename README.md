@@ -68,3 +68,14 @@ Deponun içeriğine bakacak olursak:
 15. https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html
 16. https://www.veribilimiokulu.com/veri-bilimci-olmak-icin-yol-haritasi/ 
 17. https://medium.com/@ekrem.hatipoglu/machine-learning-classification-logistic-regression-part-8-b77d2a61aae1
+18. https://github.com/itspoma/audio-fingerprint-identifying-python
+19. https://www.kaggle.com/code/onurakkse/veri-bilimi-notlar
+20. https://teknoloji.org/derin-ogrenme-nedir-yapay-sinir-aglari-ne-ise-yarar/#Yapay_Zeka_Makine_Ogrenmesi_Derin_Ogrenme
+21. https://www.analyticsvidhya.com/blog/2019/07/learn-build-first-speech-to-text-model-python/
+22. https://medium.com/@ebubekirdurukal/python-ile-fourier-d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC-92071e5f8080
+23. https://www.baranekrem.net/sinyallerimdeki-seytanlar-fourier-transform/
+24. https://evrimagaci.org/fourier-donusumu-internette-muzik-ve-fotograf-paylasimini-mumkun-kilan-matematik-7728
+25. https://towardsdatascience.com/understanding-audio-data-fourier-transform-fft-spectrogram-and-speech-recognition-a4072d228520
+26. https://veribilimcisi.com/2017/09/06/seaborna-hizli-bir-baslangic/
+27. https://www.geeksforgeeks.org/difference-between-matplotlib-vs-seaborn/
+28. https://www.mshowto.org/veri-gorsellestirmesi-matplotlib-ve-seaborn-kutuphaneleri.html
