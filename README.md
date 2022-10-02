@@ -27,11 +27,6 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
         - [TensorFlow](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/TensorFlow.ipynb)
         - [Keras](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/Keras.ipynb)
         - [PyTorch](../main/Python-ile-Programlama/Makine-Ogrenmesi-ve-Derin-Ogrenme-Icin-Kutuphaneler/PyTorch.ipynb)
-     - Veri Tabanı İşlemleri
-        - SQLite Veritabanı
-        - MySQL Veritabanı
-        - MSSQL Veritabanı
-        - PostgreSQL Veritabanı
 2. [Veri Tabanı](../main/Veri-Tabani)
 3. [Veri Bilimi](../main/Veri-Bilimi)
     - [Betimsel İstatistik](../main/Veri-Bilimi/Betimsel-Istatistik.ipynb)
@@ -79,3 +74,4 @@ Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmaları
 26. https://veribilimcisi.com/2017/09/06/seaborna-hizli-bir-baslangic/
 27. https://www.geeksforgeeks.org/difference-between-matplotlib-vs-seaborn/
 28. https://www.mshowto.org/veri-gorsellestirmesi-matplotlib-ve-seaborn-kutuphaneleri.html
+29. https://www.niobehosting.com/blog/database-veri-tabani-nedir/
