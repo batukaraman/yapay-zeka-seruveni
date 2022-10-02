@@ -2,9 +2,8 @@
 
 Burası benim yapay zeka için uçtan uca araştırmalarımı ve çalışmalarımı not aldığım bir depodur. Bu depoda yapay zeka, makine öğrenmesi, derin öğrenme, doğal dil işleme, veri bilimi ve benzeri birçok konuda gerekli yeterlilikler, kavramlar, kaynaklar ve örnekler bulunacaktır.
 
-Deponun içeriğine bakacak olursak:
-1. [Veri Tabanı](../main/Veri-Tabani)
-2. [Python ile Programlama](../main/Python-ile-Programlama)
+
+1. [Python ile Programlama](../main/Python-ile-Programlama)
     - [Temel Seviye Fonksiyonlar](../main/Python-ile-Programlama/Temel-Fonksiyonlar.ipynb)
     - [Veri Tipleri](../main/Python-ile-Programlama/Degiskenler.ipynb)
     - [Veri Yapıları](../main/Python-ile-Programlama/Veri-Yapilari.ipynb)
@@ -32,7 +31,8 @@ Deponun içeriğine bakacak olursak:
         - SQLite Veritabanı
         - MySQL Veritabanı
         - MSSQL Veritabanı
-        - PostgreSQL Veritabanı 
+        - PostgreSQL Veritabanı
+2. [Veri Tabanı](../main/Veri-Tabani)
 3. [Veri Bilimi](../main/Veri-Bilimi)
     - [Betimsel İstatistik](../main/Veri-Bilimi/Betimsel-Istatistik.ipynb)
     - [Veri Bilimi İçin Matematik](../main/Veri-Bilimi/Veri-Bilimi-Icin-Matematik.ipynb)
